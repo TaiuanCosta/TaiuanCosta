@@ -1,8 +1,7 @@
 # 👨‍💻 Taiuan Costa  
 
 **`Desenvolvedor Front-end`**  
-
-Me chamo Taiuan da Silva Costa, tenho 19 anos e sou da Bahia. Concluí o ensino médio no Colégio da Polícia Militar. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai Alagoinhas. Sou totalmente empenhado e disposto a aprender sobre novas tecnologias e aprimorar meus conhecimentos.  
+Eu me chamo Taiuan da Silva Costa, tenho 19 anos e sou da Bahia. Concluí o ensino médio no Colégio da Polícia Militar. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai Alagoinhas. Sou totalmente empenhado e disposto a aprender sobre novas tecnologias e aprimorar meus conhecimentos.  
 
 ---  
 
